@@ -1,0 +1,12 @@
+MCP Protocol Exploration
+Overview
+This directory contains code to explore the MCP protocol. For a detailed description, refer to MCP_DOCUMENTATION.md.
+Examples
+
+MCP Server: Located in the mcp_server directory.
+Implements a time server.
+Configured to handle HTTP requests and SSE (Server-Sent Events).
+
+
+MCP Client: Located in the mcp_client directory.
+
